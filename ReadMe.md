@@ -1,7 +1,7 @@
 ### GIS Analysis in Python ###
 
-The building blocks of the Python GIS that are used:
-- _Geopandas_
+The building blocks of the Python GIS Geopandas that are used:
+- _Pandas_, Data Analysis
 - _Shapely_, library for dealing with geometric shapes
 - _Fiona_, writing and reading file
 - _PyProj_, cartographic projection
